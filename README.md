@@ -1,5 +1,8 @@
 # dlnf_project1_bikeshare_ann
 
+-------------- Submission 3 Comments -------------
+Everything should be working fine now
+
 -------------- Submission 2 Comments -------------
 I have made changes to the neural net & hyperparameters, all of which pass the unit tests. I have decided to maintain the usage of the sigmoid prime function as allows me to compare with the forward pass more clearly. Somehow, the epochs seems to lag my kernel so much, that it is unable to load the training & validation loss graphs [*] - hence I am unable to effectively choose my hyperparameters. I am pretty annoyed and have been trying many times on all browsers. Any idea why this is happening? Much Appreciated.
 
